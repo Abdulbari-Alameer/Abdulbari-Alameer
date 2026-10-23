@@ -36,8 +36,8 @@ I build and evaluate machine learning systems, with a focus on NLP, information 
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🔎 [**Information Retrieval and NLP**](https://github.com/Abdulbari-Alameer/Information-Retrieval-and-NLP) | Benchmarks 8 retrieval methods on SciFact (BEIR): BM25 nDCG@10 0.667, Sentence-BERT 0.645, with confidence intervals and significance tests | Python · Transformers · Gensim |
 | 📉 [**Telecom Churn Retention Proposal**](https://github.com/Abdulbari-Alameer/Artificial-Intelligence-and-Machine-Learning/tree/main/Telecom-Churn-Retention-Proposal) | Predicts churn for 100,000 customers (test ROC-AUC 0.699) and turns the model into a costed retention plan that starts with a pilot | Python · LightGBM · scikit-learn |
-| 🔎 [**Information Retrieval and NLP**](https://github.com/Abdulbari-Alameer/Information-Retrieval-and-NLP) | Compares Boolean, TF-IDF, Word2Vec, GloVe, FastText and BERT-based retrieval on one corpus | Python · Transformers · Gensim |
 | 🧭 [**Anomaly Scoring (KNN + Density)**](https://github.com/Abdulbari-Alameer/Artificial-Intelligence-and-Machine-Learning/tree/main/Anomaly-Scoring-KNN-Density) | An anomaly score in [0, 1] from normalized KNN distance and density deviation | Python · scikit-learn |
 | ⚙️ [**Advanced Algorithms Lab**](https://github.com/Abdulbari-Alameer/Advanced-Algorithms-Lab) | Huffman coding, closest pair, BST/AVL, merge sort and binary search | C · C++ |
 | 🖥️ [**Advanced Operating Systems Lab**](https://github.com/Abdulbari-Alameer/Advanced-Operating-Systems-Lab) | A Unix shell, a Sun RPC session monitor and a thread-pool client-server | C · Python |
